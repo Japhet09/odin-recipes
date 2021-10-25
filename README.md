@@ -1,0 +1,1 @@
+This project aim at building web pages for different recipes. From the project I will learn the basics of HTML as well as git and GitHub 
