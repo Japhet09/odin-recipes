@@ -1,0 +1,21 @@
+img {
+    width: 300px;
+    height: auto;
+}
+ol li {
+    text-decoration: underline;
+    color: darkblue;
+    font-weight: 700;
+}
+
+h1,h2 {
+    color: darkcyan;
+}
+
+html {
+    background-color: darkgrey;
+}
+.facts {
+    color: red;
+    text-decoration: underline;
+}
